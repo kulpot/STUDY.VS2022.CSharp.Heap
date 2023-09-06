@@ -1,7 +1,7 @@
 ﻿using System;
 
 //ref link:https://www.youtube.com/watch?v=o4nM7itG6s8&list=PLRwVmtr-pp07XP8UBiUJ0cyORVCmCgkdA&index=39
-//  Heap  
+//  Heap -- 
 // LIFO -- last in first out
 
 class CountingClass
